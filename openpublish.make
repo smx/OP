@@ -1,6 +1,5 @@
-; Drupal Core
-api = 2
 core = 7.0
+api = 2
 
 projects[drupal][type] = core
 
